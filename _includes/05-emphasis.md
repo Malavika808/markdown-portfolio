@@ -1,2 +1,2 @@
-*every cloud has a silver lining *
-**every cloud has a silver lining **
+*This text will be italic* 
+**This text will be bold**
